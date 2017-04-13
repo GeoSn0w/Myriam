@@ -18,5 +18,6 @@ Myriam combines some of the greatest challenges for the beginners out here.
 <b> Twitter: https://twitter.com/FCE365 </b>
 
 <b>ScreenShoots</b>
-![img_0694](https://cloud.githubusercontent.com/assets/15067741/25025361/9d66c88e-20aa-11e7-8d27-838738000f7a.jpg)
+<img src="https://cloud.githubusercontent.com/assets/15067741/25025361/9d66c88e-20aa-11e7-8d27-838738000f7a.jpg" width="250" height= "450"> <img src="https://cloud.githubusercontent.com/assets/15067741/25025450/fced5e3a-20aa-11e7-99d4-19a9b8eebe57.jpg" width="250" height= "450"> <img src="https://cloud.githubusercontent.com/assets/15067741/25025451/fd00ea7c-20aa-11e7-8598-77ff5a834506.jpg" width="250" height= "450">
+
 
