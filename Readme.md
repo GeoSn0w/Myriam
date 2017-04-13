@@ -1,6 +1,6 @@
 <b>Myriam iOS Security App</b>
-<i>iOS Security Challenges for your free time</i>
-<b>Brought to you by GeoSnow (@FCE365)
+<p><i>iOS Security Challenges for your free time</i><p>
+<p><b>Brought to you by GeoSnow (@FCE365)</b><p>
 
 <p>
 Myriam was my dream app ever since I started iOS Development. It is my gift to the iOS Hacking Community :)
