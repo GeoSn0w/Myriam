@@ -4,7 +4,7 @@
 
 <p>
 Myriam was my dream app ever since I started iOS Development. It is my gift to the iOS Hacking Community :)
-Myriam is an iOS App contaning various vulnerabilities for you to discover and exploit. The application offers a few challenges
+Myriam is an iOS App containing various vulnerabilities for you to discover and exploit. The application offers a few challenges
 for those of you who wanna become the next iOS hackers. Ranging from In-App Data modification to App Activation Bypass and Jailbreak Detection,
 Myriam combines some of the greatest challenges for the beginners out here. 
 </p>
