@@ -3,10 +3,10 @@
 <p><b>Brought to you by GeoSnow (@FCE365)</b><p>
 
 <p>
-Myriam was my dream app ever since I started iOS Development. It is my gift to the iOS Hacking Community :)
+Myriam was my dream app ever since I started iOS Development. It is "my gift to the iOS Hacking Community" and by gift, I mean a beginner iOS Reverse Engineer's attempt on making an application useful for us, the beginners, while learning more. :)
 Myriam is an iOS App containing various vulnerabilities for you to discover and exploit. The application offers a few challenges
 for those of you who wanna become the next iOS hackers. Ranging from In-App Data modification to App Activation Bypass and Jailbreak Detection,
-Myriam combines some of the greatest challenges for the beginners out here. 
+Myriam combines some of the greatest challenges for the beginners out here. Don't get me wrong, I am a beginner myself trying to learn, so this application is what I will be using in the first place, because it is easier to build such an app in Objective-C than to take it to bits in Hopper or IDA :)
 </p>
 
 <p>
