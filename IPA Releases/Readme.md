@@ -1,3 +1,5 @@
+<B> This project isn't maintained anymore. Stay tuned for a better Myriam app </B>
+
 <b> This is the current IPA for Myriam iOS Security Challenges App! </b>
 <p> Version: BETA 4</p>
 <p> SHA SUM: d27e7b2f98c9e9761574ac0d7ffaf83c14f1ae1a </p>
