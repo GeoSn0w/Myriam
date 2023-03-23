@@ -26,3 +26,8 @@ Myriam combines some of the greatest challenges for the beginners out here. Don'
 <p>Current Beta codename: FingerPrints</p>
 <p>Current newest challenge: Touch ID Auth Bypass </p>
 
+### My Websites
+* <a href="https://idevicecentral.com">Latest iOS 16 Jailbreak News</a>
+* <a href="https://gametutorialpro.com">Latest Gaming News & Guides</a>
+* <a href="https://jailbreak.fce365.info">iOS Jailbreak Forum</a>
+* <a href="https://gsmbypass.com">Latest FRP Bypass Tools & Guides</a>
